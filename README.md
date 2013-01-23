@@ -24,8 +24,8 @@ QuickStart Guide
 main folder
 
 * Connect the robots Arduino to the robots computer via USB and set generous permissions
-to the new serial device (e.g. /dev/ttyUSB0)
+to the new serial device (e.g. `/dev/ttyUSB0`)
 
-* Run rubot.rb and visit http://<your-robots-ip>:4567 with another computers browser
+* Run rubot.rb and visit `http://your.robots.ip:4567` with another computers browser
 
 * Enjoy the ride :) 
