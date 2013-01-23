@@ -1,5 +1,5 @@
 RuBot = Ruby + Arduino + LEGO®
-##############################
+==============================
 
 RuBot is a simple web-controlled robot that I built just for fun on a rainy weekend.
 
